@@ -1,0 +1,116 @@
+.two-icons
+{
+  display: none;
+}
+.nav-image
+{
+  width: 25%;
+}
+.nav-image img
+{
+  width: 70%;
+}
+.nav-content
+{
+  width: 75%;
+}
+.nav-content ul li a
+{
+  font-size: 90%;
+}
+.home-content
+{
+    -webkit-transform: translateY(20%);
+        -ms-transform: translateY(20%);
+            transform: translateY(20%);
+    font-size: 150%;
+    line-height: 2;
+}
+.btn
+{
+  padding: 10px;
+  margin: 10px;
+}
+.btn a
+{
+  font-size: 120%;
+}
+.circle
+{
+  margin: 50px auto;
+}
+.About-section ,.Our-offer-section ,.Gallery-section,.Blog-section
+{
+font-size: 110%;
+width: 95%;
+-webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+}
+.About-image,.Our-offer-image,.Blog-map
+{
+  padding-top:50px;
+}
+.About-content ,.Our-offer-content,.Blog-content
+{
+  padding:0;
+  line-height: 1.5;
+}
+.About-content h2 ,.Our-offer-content h2,.Gallery-section h2,.Blog-content h2
+{
+  font-size: 150%;
+}
+.About-content ul
+{
+  line-height: 2.5;
+}
+.fa-envira , .fa-user-group , .fa-heart , .fa-check
+{
+  border: none;
+}
+.Our-offer-image,.Blog-map
+{
+  padding: 50px 20px;
+}
+.Gallery-section
+{
+  line-height: 1.5;
+}
+.three-items
+{
+  margin: 30px auto;
+  width: 100%;
+}
+.Blog-content
+{
+  line-height: 2;
+}
+.Blog-content ul
+{
+  line-height: 3;
+}
+.location ,.phone ,.mail
+{
+  padding: 8px;
+}
+.contact
+{
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding:50px 20px;
+  font-size: 120%;
+}
+.item-contact ,.item-contact a
+{
+  line-height: 1.5;
+}
+.item-contact
+{
+  width:100%;
+}
+.fa-ul
+{
+  line-height: 2.5;
+}

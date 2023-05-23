@@ -1,0 +1,154 @@
+.two-icons
+{
+ display: none;
+}
+.nav-image
+{
+  width: 25%;
+}
+.nav-image img
+{
+  padding:10px;
+  width: 100%;
+}
+.nav-content ul li a
+{
+  width: 75%;
+}
+.nav-content
+{
+  font-size: 60%;
+}
+header
+{
+  background-size: cover;
+  background-position: center center;
+}
+.home-content
+{
+    font-size: 120%;
+}
+.btn
+{
+  padding: 5px 10px;
+}
+.btn a
+{
+  font-size: 115%;
+}
+.circle
+{
+  width: 25px;
+  margin: 50px auto;
+}
+.circle::after
+{
+height: 8px;
+width: 8px;
+}
+.About-section ,.Our-offer-section ,.Gallery-section,.Blog-section
+{
+font-size: 100%;
+width: 100%;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+    -ms-flex-direction: column;
+        flex-direction: column;
+margin: 15px auto;
+}
+.About-image,.Our-offer-image,.Blog-map
+{
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+width: 100%;
+-webkit-box-pack: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+}
+.About-image img ,.Our-offer-image img,.item img,.Blog-map iframe
+{
+width: 60%;
+}
+.About-content ,.Our-offer-content,.Blog-content
+{
+padding: 10px 8px 10px;
+width: 100%;
+line-height: 1.5;
+}
+.About-content h2 ,.Our-offer-content h2,.Gallery-section h2,.Blog-content h2
+{
+font-size: 120%;
+margin: 10px 0px;
+}
+.About-content ul
+{
+line-height: 2.5;
+}
+.fa-envira , .fa-user-group , .fa-heart , .fa-check
+{
+padding: 8px;
+border: none;
+}
+.Our-offer-image,.Blog-map
+{
+padding: 10px;
+margin-bottom: 20px;
+}
+.Gallery-section
+{
+line-height: 1.5;
+}
+.three-items
+{
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+    -ms-flex-direction: column;
+        flex-direction: column;
+margin: 10px auto;
+width: 90%;
+}
+.item
+{
+width: 100%;
+margin: 10px 0px;
+}
+.location ,.phone ,.mail
+{
+color :chocolate;
+background-color: transparent;
+border:none;
+}
+.Blog-map
+{
+width: 80%;
+margin: auto;
+}
+.Blog-map iframe
+{
+width:100%;
+}
+.Blog-section
+{
+margin:15px auto 0px auto;
+}
+.contact
+{
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+    -ms-flex-direction: column;
+        flex-direction: column;
+font-size: 100%;
+}
+.item-contact
+{
+width:100%;
+}
+.fa-ul
+{
+line-height: 2;
+}
+footer img
+{
+  width:200px
+}
